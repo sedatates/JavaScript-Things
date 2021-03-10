@@ -1,0 +1,17 @@
+[
+    {
+        "name":"sedat",
+        "age":25,
+        "salary":10000
+    },
+    {
+        "name":"hakan hodja",
+        "age":35,
+        "salary":10000
+    },
+    {
+        "name":"naz retting hodja ",
+        "age":45,
+        "salary":2
+    }
+]

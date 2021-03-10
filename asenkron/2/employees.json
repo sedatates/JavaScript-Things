@@ -1,0 +1,19 @@
+[
+    {
+        "name":"sedat",
+        "department":"ates",
+        "salary":"22222"
+    },
+    
+    {
+        "name":"hakan",
+        "department":"ünal",
+        "salary":"22223"
+    },
+
+    {
+        "name":"jet sosyete",
+        "department":"ajda hanım",
+        "salary":"22225"
+    }
+]
